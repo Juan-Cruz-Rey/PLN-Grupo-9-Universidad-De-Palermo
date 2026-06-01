@@ -326,7 +326,7 @@
 {"text": "el proyector del salon de actos no tiene nitidez", "entities": [[3, 12, "OBJETO"], [17, 31, "LUGAR"], [32, 48, "PROBLEMA"]]}
 {"text": "esta quemada la lamparita del pasillo de entrada", "entities": [[5, 12, "PROBLEMA"], [16, 25, "OBJETO"], [30, 48, "LUGAR"]]}
 {"text": "cheee en el gabinete 2 la pc 4 no arranca", "entities": [[12, 22, "LUGAR"], [26, 30, "OBJETO"], [31, 41, "PROBLEMA"]]}
-{"text": "vine a la facu y vi que la reja de entrada tiene el candado roto", "entities": [[35, 42, "LUGAR"],[27, 31, "OBJETO"],[43, 64, "PROBLEMA"]]}
+{"text": "vine a la facu y vi que la reja de entrada tiene el candado roto", "entities": [[35, 42, "LUGAR"], [27, 31, "OBJETO"], [43, 64, "PROBLEMA"]]}
 {"text": "el dispenser del pasillo central pierde agua a lo loco", "entities": [[3, 12, "OBJETO"], [17, 32, "LUGAR"], [33, 44, "PROBLEMA"]]}
 {"text": "hola estoy en el aula 204 y el aire no enfria nada", "entities": [[17, 25, "LUGAR"], [31, 35, "OBJETO"], [39, 50, "PROBLEMA"]]}
 {"text": "kiero avisar que en la oficina de alumnos se cayo un pedazo de techo", "entities": [[23, 41, "LUGAR"], [45, 68, "PROBLEMA"]]}
