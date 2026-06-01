@@ -1,0 +1,570 @@
+{"text": "El borrador de la pizarra está roto en el aula 02-04", "entities": [[3, 11, "OBJETO"], [26, 35, "PROBLEMA"], [42, 52, "LUGAR"]]}
+{"text": "No funciona el ac en el aula 01-03", "entities": [[0, 11, "PROBLEMA"], [15, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "No está el control del aire acondicionado el aula 01-03", "entities": [[0, 7, "PROBLEMA"], [11, 41, "OBJETO"], [45, 55, "LUGAR"]]}
+{"text": "no está el Control del aire acondicionado el aula 01-03", "entities": [[0, 7, "PROBLEMA"], [11, 41, "OBJETO"], [45, 55, "LUGAR"]]}
+{"text": "no está el control del ac del aula 01-03", "entities": [[0, 7, "PROBLEMA"], [11, 25, "OBJETO"], [30, 40, "LUGAR"]]}
+{"text": "no está el Control del AC del aula 01-03", "entities": [[0, 7, "PROBLEMA"], [11, 25, "OBJETO"], [30, 40, "LUGAR"]]}
+{"text": "Faltan marcadores en el aula 04-05", "entities": [[0, 6, "PROBLEMA"], [7, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "FALTAN MARCADORES EN EL AULA 04-05", "entities": [[0, 6, "PROBLEMA"], [7, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "Faltan Marcadores En El Aula 04-05", "entities": [[0, 6, "PROBLEMA"], [7, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "El borrador está roto en el aula 11-22", "entities": [[3, 11, "OBJETO"], [12, 21, "PROBLEMA"], [28, 38, "LUGAR"]]}
+{"text": "la pizarra del aula 09-01 esta manchada", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"]]}
+{"text": "la pizarra del aula 09-01 esta sucia", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 36, "PROBLEMA"]]}
+{"text": "LA PIZARRA DEL AULA 09-01 ESTA SUCIA", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 36, "PROBLEMA"]]}
+{"text": "el proyector no enciende en el aula 03-05", "entities": [[3, 12, "OBJETO"], [13, 24, "PROBLEMA"], [31, 41, "LUGAR"]]}
+{"text": "Falta cable HDMI en el aula 08-08", "entities": [[0, 5, "PROBLEMA"], [6, 16, "OBJETO"], [23, 33, "LUGAR"]]}
+{"text": "Falta cable hdmi en el aula 08-08", "entities": [[0, 5, "PROBLEMA"], [6, 16, "OBJETO"], [23, 33, "LUGAR"]]}
+{"text": "el ac hace ruido fuerte en el aula 02-02", "entities": [[3, 5, "OBJETO"], [6, 23, "PROBLEMA"], [30, 40, "LUGAR"]]}
+{"text": "No hay tizas en el aula 01-01", "entities": [[0, 6, "PROBLEMA"], [7, 12, "OBJETO"], [19, 29, "LUGAR"]]}
+{"text": "el picaporte del aula 10-10 no funciona", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 39, "PROBLEMA"]]}
+{"text": "marcador sin tinta en el aula 05-05", "entities": [[0, 8, "OBJETO"], [9, 18, "PROBLEMA"], [25, 35, "LUGAR"]]}
+{"text": "MARCADOR sin tinta en el aula 05-05", "entities": [[0, 8, "OBJETO"], [9, 18, "PROBLEMA"], [25, 35, "LUGAR"]]}
+{"text": "marcador con poca tinta en el aula 05-05", "entities": [[0, 8, "OBJETO"], [13, 23, "PROBLEMA"], [30, 40, "LUGAR"]]}
+{"text": "Se rompió la silla del profesor en el aula 07-02", "entities": [[0, 9, "PROBLEMA"], [13, 31, "OBJETO"], [38, 48, "LUGAR"]]}
+{"text": "el borrador del aula 04-04 se perdió", "entities": [[3, 11, "OBJETO"], [16, 26, "LUGAR"], [27, 36, "PROBLEMA"]]}
+{"text": "No anda el ventilador en el aula 06-06", "entities": [[0, 7, "PROBLEMA"], [11, 21, "OBJETO"], [28, 38, "LUGAR"]]}
+{"text": "hay una gotera en el techo del aula 03-01", "entities": [[8, 14, "PROBLEMA"], [21, 26, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "el ac central del aula 01-10 tira agua", "entities": [[3, 13, "OBJETO"], [23, 28, "LUGAR"], [29, 38, "PROBLEMA"]]}
+{"text": "el AC central del aula 01-10 tira agua", "entities": [[3, 13, "OBJETO"], [23, 28, "LUGAR"], [29, 38, "PROBLEMA"]]}
+{"text": "EL AC CENTRAL DEL AULA 01-10 TIRA AGUA", "entities": [[3, 13, "OBJETO"], [23, 28, "LUGAR"], [29, 38, "PROBLEMA"]]}
+{"text": "Falta el control del proyector en el aula 02-01", "entities": [[0, 5, "PROBLEMA"], [9, 30, "OBJETO"], [37, 47, "LUGAR"]]}
+{"text": "el ac central del aula 01-10 gotea", "entities": [[3, 13, "OBJETO"], [18, 28, "LUGAR"], [29, 34, "PROBLEMA"]]}
+{"text": "El Ac Central Del Aula 01-10 Gotea", "entities": [[3, 13, "OBJETO"], [18, 28, "LUGAR"], [29, 34, "PROBLEMA"]]}
+{"text": "el ac del aula 01-10 gotea", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [21, 26, "PROBLEMA"]]}
+{"text": "el ac del aula 01-10 gotae", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [21, 26, "PROBLEMA"]]}
+{"text": "el AC del aula 01-10 GOTEA", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [21, 26, "PROBLEMA"]]}
+{"text": "la ventana del aula 03-03 no cierra", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 35, "PROBLEMA"]]}
+{"text": "No hay borrador ni tizas en el aula 08-09", "entities": [[0, 6, "PROBLEMA"], [7, 15, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "el enchufe del aula 04-10 hace chispas", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 38, "PROBLEMA"]]}
+{"text": "no anda el ac del laboratorio 02-02", "entities": [[0, 7, "PROBLEMA"], [11, 13, "OBJETO"], [18, 35, "LUGAR"]]}
+{"text": "falta el borrador en la biblioteca", "entities": [[0, 5, "PROBLEMA"], [9, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "la mesa del patio esta rota", "entities": [[3, 7, "OBJETO"], [12, 17, "LUGAR"], [23, 27, "PROBLEMA"]]}
+{"text": "la mesa del patio esta roat", "entities": [[3, 7, "OBJETO"], [12, 17, "LUGAR"], [23, 27, "PROBLEMA"]]}
+{"text": "la meza del patio esta rota", "entities": [[3, 7, "OBJETO"], [12, 17, "LUGAR"], [23, 27, "PROBLEMA"]]}
+{"text": "se quemo el foco del pasillo del segundo piso", "entities": [[0, 8, "PROBLEMA"], [12, 16, "OBJETO"], [21, 45, "LUGAR"]]}
+{"text": "el televisor del laboratorio SS-02 no enciende", "entities": [[3, 12, "OBJETO"], [17, 34, "LUGAR"], [35, 46, "PROBLEMA"]]}
+{"text": "la puerta esta trabada en el deposito 03-04", "entities": [[3, 9, "OBJETO"], [15, 22, "PROBLEMA"], [29, 43, "LUGAR"]]}
+{"text": "marcador seco en la sala de profesores", "entities": [[0, 8, "OBJETO"], [9, 13, "PROBLEMA"], [20, 38, "LUGAR"]]}
+{"text": "gotera en el techo del pasillo del segundo piso", "entities": [[0, 6, "PROBLEMA"], [13, 18, "OBJETO"], [23, 47, "LUGAR"]]}
+{"text": "no funciona el pc de la biblioteca", "entities": [[0, 11, "PROBLEMA"], [15, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "ventana rota en el laboratorio de quimica", "entities": [[0, 7, "OBJETO"], [8, 12, "PROBLEMA"], [19, 41, "LUGAR"]]}
+{"text": "se perdio el borrador del aula 04-04", "entities": [[0, 9, "PROBLEMA"], [13, 21, "OBJETO"], [26, 36, "LUGAR"]]}
+{"text": "el enchufe del patio hace chispas", "entities": [[3, 10, "OBJETO"], [15, 20, "LUGAR"], [21, 33, "PROBLEMA"]]}
+{"text": "El enchufe del patio hace chispas", "entities": [[3, 10, "OBJETO"], [15, 20, "LUGAR"], [21, 33, "PROBLEMA"]]}
+{"text": "El enchufe del patio hace chispa", "entities": [[3, 10, "OBJETO"], [15, 20, "LUGAR"], [21, 32, "PROBLEMA"]]}
+{"text": "el enchufe del patio hace rallos", "entities": [[3, 10, "OBJETO"], [15, 20, "LUGAR"], [21, 32, "PROBLEMA"]]}
+{"text": "la pizarra del Laboratorio 01-05 esta manchada", "entities": [[3, 10, "OBJETO"], [15, 32, "LUGAR"], [38, 46, "PROBLEMA"]]}
+{"text": "no hay señal de wifi en el auditorio", "entities": [[0, 12, "PROBLEMA"], [16, 20, "OBJETO"], [27, 36, "LUGAR"]]}
+{"text": "el ascensor del pasillo central no para", "entities": [[3, 11, "OBJETO"], [16, 31, "LUGAR"], [32, 39, "PROBLEMA"]]}
+{"text": "ac perdiendo agua en el laboratorio 07-07", "entities": [[0, 2, "OBJETO"], [3, 17, "PROBLEMA"], [24, 41, "LUGAR"]]}
+{"text": "el televisor del aula SS-02 no enciende", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 39, "PROBLEMA"]]}
+{"text": "el televisor del aula SS-01 no enciende", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 39, "PROBLEMA"]]}
+{"text": "la computadora del aula SS-01 no enciende", "entities": [[3, 14, "OBJETO"], [19, 29, "LUGAR"], [30, 41, "PROBLEMA"]]}
+{"text": "la computadora del aula SS-02 no enciende", "entities": [[3, 14, "OBJETO"], [19, 29, "LUGAR"], [30, 41, "PROBLEMA"]]}
+{"text": "gotera en el techo del pasillo del segundo piso", "entities": [[0, 6, "PROBLEMA"], [13, 18, "OBJETO"], [23, 47, "LUGAR"]]}
+{"text": "no hay wifi en el laboratorio de fisica", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 39, "LUGAR"]]}
+{"text": "no hay Wifi en el aula 0502", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 27, "LUGAR"]]}
+{"text": "no hay WIFI en el aula 0302", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 27, "LUGAR"]]}
+{"text": "no hay wifi en el aula 0104", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 27, "LUGAR"]]}
+{"text": "No hay Wifi en el aula 01-04", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 28, "LUGAR"]]}
+{"text": "no hay wifi en el aula 02-04", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 28, "LUGAR"]]}
+{"text": "no hay wifi en el Aula 05-01", "entities": [[0, 6, "PROBLEMA"], [7, 11, "OBJETO"], [18, 28, "LUGAR"]]}
+{"text": "el dispenser de agua del pasillo del primer piso no tiene vasos", "entities": [[3, 12, "OBJETO"], [25, 48, "LUGAR"], [49, 63, "PROBLEMA"]]}
+{"text": "EL DISPENSER DE AGUA DEL PASILLO DEL PRIMER PISO NO TIENE VASOS", "entities": [[3, 12, "OBJETO"], [25, 48, "LUGAR"], [49, 63, "PROBLEMA"]]}
+{"text": "el baño de hombres del piso 2 esta inundado", "entities": [[3, 18, "LUGAR"], [30, 34, "OBJETO"], [35, 43, "PROBLEMA"]]}
+{"text": "El baño de hombres del piso 2 esta inundado", "entities": [[3, 18, "LUGAR"], [30, 34, "OBJETO"], [35, 43, "PROBLEMA"]]}
+{"text": "el baño de mujeres del piso 2 esta inundado", "entities": [[3, 18, "OBJETO"], [23, 29, "LUGAR"], [30, 43, "PROBLEMA"]]}
+{"text": "el baño de mujeres del piso 2 esta encharcado", "entities": [[3, 18, "OBJETO"], [23, 29, "LUGAR"], [30, 45, "PROBLEMA"]]}
+{"text": "el baño de hombres del piso 2 esta encharcado", "entities": [[3, 18, "OBJETO"], [23, 29, "LUGAR"], [30, 45, "PROBLEMA"]]}
+{"text": "pierde agua el dispenser del primer piso", "entities": [[0, 11, "PROBLEMA"], [15, 24, "OBJETO"], [29, 40, "LUGAR"]]}
+{"text": "pierde agua el dispenser del segundo piso", "entities": [[0, 11, "PROBLEMA"], [15, 24, "OBJETO"], [29, 41, "LUGAR"]]}
+{"text": "pierde agua el dispenser del segundo pios", "entities": [[0, 11, "PROBLEMA"], [15, 24, "OBJETO"], [29, 41, "LUGAR"]]}
+{"text": "pierde agau el dispenser del segundo piso", "entities": [[0, 11, "PROBLEMA"], [15, 24, "OBJETO"], [29, 41, "LUGAR"]]}
+{"text": "pierde agua el dispenser del subsuelo", "entities": [[0, 11, "PROBLEMA"], [15, 24, "OBJETO"], [29, 37, "LUGAR"]]}
+{"text": "el dispenser del primer piso no anda", "entities": [[3, 12, "OBJETO"], [17, 28, "LUGAR"], [29, 36, "PROBLEMA"]]}
+{"text": "el dispenser del tercer piso no anda", "entities": [[3, 12, "OBJETO"], [17, 28, "LUGAR"], [29, 36, "PROBLEMA"]]}
+{"text": "el dispenser del tercer piso no anad", "entities": [[3, 12, "OBJETO"], [17, 28, "LUGAR"], [29, 36, "PROBLEMA"]]}
+{"text": "el dispenser del tercre piso no anda", "entities": [[3, 12, "OBJETO"], [17, 28, "LUGAR"], [29, 36, "PROBLEMA"]]}
+{"text": "no anda el dispenser de planta baja", "entities": [[0, 7, "PROBLEMA"], [11, 20, "OBJETO"], [24, 35, "LUGAR"]]}
+{"text": "el banco del aula 02-03 esta rayado", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 35, "PROBLEMA"]]}
+{"text": "el banco del aula 02-03 esta marcado", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 36, "PROBLEMA"]]}
+{"text": "el teclado de la pc en el aula 03-01 no funciona", "entities": [[3, 10, "OBJETO"], [26, 36, "LUGAR"], [37, 48, "PROBLEMA"]]}
+{"text": "el teclado de la pc en el aula 0301 no funciona", "entities": [[3, 10, "OBJETO"], [26, 35, "LUGAR"], [36, 47, "PROBLEMA"]]}
+{"text": "el teclado en el aula 0301 no funciona", "entities": [[3, 10, "OBJETO"], [17, 26, "LUGAR"], [27, 38, "PROBLEMA"]]}
+{"text": "el teclaod en el aula 0301 no funciona", "entities": [[3, 10, "OBJETO"], [17, 26, "LUGAR"], [27, 38, "PROBLEMA"]]}
+{"text": "el teclado de la pc en el aula 02-04 no funciona", "entities": [[3, 10, "OBJETO"], [31, 36, "LUGAR"], [37, 48, "PROBLEMA"]]}
+{"text": "el teclado de la pc en el aula 0204 no funciona", "entities": [[3, 10, "OBJETO"], [26, 35, "LUGAR"], [36, 47, "PROBLEMA"]]}
+{"text": "el teclado en el aula 0204 no funciona", "entities": [[3, 10, "OBJETO"], [17, 26, "LUGAR"], [27, 38, "PROBLEMA"]]}
+{"text": "el teclado en el aula 301 no funcion", "entities": [[3, 10, "OBJETO"], [17, 25, "LUGAR"], [26, 36, "PROBLEMA"]]}
+{"text": "el banco del aula 02-03 esta rayado", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 35, "PROBLEMA"]]}
+{"text": "no andan los parlantes en el laboratorio 01-01", "entities": [[0, 8, "PROBLEMA"], [13, 22, "OBJETO"], [29, 46, "LUGAR"]]}
+{"text": "la cortina del aula 05-05 se trabo", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 34, "PROBLEMA"]]}
+{"text": "la cortina del aula 05-05 esta rota", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 35, "PROBLEMA"]]}
+{"text": "LA CORTINA DEL AULA 05-05 ESTA ROTA", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 35, "PROBLEMA"]]}
+{"text": "un vidrio roto en la ventana del aula 09-09", "entities": [[0, 14, "PROBLEMA"], [21, 28, "OBJETO"], [33, 43, "LUGAR"]]}
+{"text": "un vidroi root en la ventana del aula 09-09", "entities": [[0, 14, "PROBLEMA"], [21, 28, "OBJETO"], [33, 43, "LUGAR"]]}
+{"text": "un vidrio roto en la ventana del aula 09-09", "entities": [[0, 14, "PROBLEMA"], [21, 28, "OBJETO"], [33, 43, "LUGAR"]]}
+{"text": "el teclado de la pc en el aula 05-01 no funciona", "entities": [[3, 19, "OBJETO"], [26, 36, "LUGAR"], [37, 48, "PROBLEMA"]]}
+{"text": "el teclaod de la pc en el aula 05-01 no funciona", "entities": [[3, 19, "OBJETO"], [26, 36, "LUGAR"], [37, 48, "PROBLEMA"]]}
+{"text": "el teclado de la pc en el aula 05-01 no anda", "entities": [[3, 19, "OBJETO"], [26, 36, "LUGAR"], [37, 44, "PROBLEMA"]]}
+{"text": "el tacho de basura del aula 04-02 esta desbordado", "entities": [[3, 18, "OBJETO"], [23, 33, "LUGAR"], [34, 49, "PROBLEMA"]]}
+{"text": "no hay luz en el aula 02-10", "entities": [[0, 10, "PROBLEMA"], [17, 27, "LUGAR"]]}
+{"text": "el cable del monitor en el aula 11-11 falta", "entities": [[3, 20, "OBJETO"], [27, 37, "LUGAR"], [38, 43, "PROBLEMA"]]}
+{"text": "la estanteria del aula 05-12 se esta cayendo", "entities": [[3, 13, "OBJETO"], [18, 28, "LUGAR"], [29, 44, "PROBLEMA"]]}
+{"text": "el mouse de la sala 08-08 esta pegajoso", "entities": [[3, 8, "OBJETO"], [15, 25, "LUGAR"], [26, 39, "PROBLEMA"]]}
+{"text": "faltan los cables vga en el aula 03-01", "entities": [[0, 6, "PROBLEMA"], [11, 21, "OBJETO"], [28, 38, "LUGAR"]]}
+{"text": "la pata de la mesa esta floja en el aula 06-03", "entities": [[3, 18, "OBJETO"], [19, 29, "PROBLEMA"], [36, 46, "LUGAR"]]}
+{"text": "la pata de la mesa se mueve en el aula 06-03", "entities": [[3, 18, "OBJETO"], [19, 27, "PROBLEMA"], [34, 44, "LUGAR"]]}
+{"text": "se rompio el picaporte del aula 10-02", "entities": [[0, 9, "PROBLEMA"], [13, 22, "OBJETO"], [27, 37, "LUGAR"]]}
+{"text": "el monitor de la pc del aula 04-05 tiene rayas", "entities": [[35, 46, "PROBLEMA"], [3, 10, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "la tapa de los cables del aula 02-05 esta salida", "entities": [[3, 21, "OBJETO"], [26, 36, "LUGAR"], [37, 48, "PROBLEMA"]]}
+{"text": "el televisor del aula 03-03 no tiene control", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 44, "PROBLEMA"]]}
+{"text": "el televisor del aula 01-04 no tiene control", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 44, "PROBLEMA"]]}
+{"text": "el televisor del aula 04-02 no tiene control", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 44, "PROBLEMA"]]}
+{"text": "el televisor del aula 04-02 no prende", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 37, "PROBLEMA"]]}
+{"text": "el televisor del aula 02-01 no prende", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 37, "PROBLEMA"]]}
+{"text": "el ascensor del pasillo 01-01 se quedo trabado", "entities": [[3, 11, "OBJETO"], [16, 29, "LUGAR"], [30, 46, "PROBLEMA"]]}
+{"text": "no enciende la pc 15 del laboratorio 05-05", "entities": [[0, 11, "PROBLEMA"], [15, 20, "OBJETO"], [25, 42, "LUGAR"]]}
+{"text": "no prende la pc 15 del laboratorio SS-02", "entities": [[0, 9, "PROBLEMA"], [13, 18, "OBJETO"], [23, 40, "LUGAR"]]}
+{"text": "no prende la pc 3 del laboratorio SS-02", "entities": [[0, 9, "PROBLEMA"], [13, 17, "OBJETO"], [22, 39, "LUGAR"]]}
+{"text": "no anda la pc 15 del laboratorio SS-02", "entities": [[0, 7, "PROBLEMA"], [11, 16, "OBJETO"], [21, 38, "LUGAR"]]}
+{"text": "no anda la pc 5 del laboratorio SS-01", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [20, 37, "LUGAR"]]}
+{"text": "no anda el wifi del laboratorio SS-01", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [20, 37, "LUGAR"]]}
+{"text": "no anda el wifi del aula 02-01", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [20, 30, "LUGAR"]]}
+{"text": "no anda el wifi del aula 201", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [20, 28, "LUGAR"]]}
+{"text": "no anda el wifi del aula 2-01", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [20, 29, "LUGAR"]]}
+{"text": "no anda el wifi en la biblio", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [22, 28, "LUGAR"]]}
+{"text": "no anda el wifi en la biblioteca", "entities": [[0, 7, "PROBLEMA"], [11, 15, "OBJETO"], [22, 32, "LUGAR"]]}
+{"text": "el televisor del laboratorio 02-02 no tiene el cable hdmi", "entities": [[3, 12, "OBJETO"], [17, 34, "LUGAR"], [35, 57, "PROBLEMA"]]}
+{"text": "el televisor del aula 02-02 no tiene el cable hdmi", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 50, "PROBLEMA"]]}
+{"text": "el televisor del aula 01-04 no tiene el cable hdmi", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 50, "PROBLEMA"]]}
+{"text": "no funcionan los botones del ascensor en el piso 3", "entities": [[0, 12, "PROBLEMA"], [17, 37, "OBJETO"], [44, 50, "LUGAR"]]}
+{"text": "no funcionan los botones del ascensor de planta baja", "entities": [[0, 12, "PROBLEMA"], [17, 28, "OBJETO"], [41, 52, "LUGAR"]]}
+{"text": "la pantalla del televisor en el aula 01-10 parpadea", "entities": [[3, 25, "OBJETO"], [32, 42, "LUGAR"], [43, 51, "PROBLEMA"]]}
+{"text": "la pc del aula 04-04 no reconoce el teclado", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [21, 43, "PROBLEMA"]]}
+{"text": "la luz del aula 01-10 parpadea", "entities": [[3, 6, "OBJETO"], [11, 21, "LUGAR"], [22, 30, "PROBLEMA"]]}
+{"text": "la luz del aula 03-03 titila", "entities": [[3, 6, "OBJETO"], [11, 21, "LUGAR"], [22, 28, "PROBLEMA"]]}
+{"text": "falta el control remoto del televisor en el aula 07-07", "entities": [[0, 5, "PROBLEMA"], [9, 37, "OBJETO"], [44, 54, "LUGAR"]]}
+{"text": "falta el control remoto del televisor en el laboratorio 07-07", "entities": [[0, 5, "PROBLEMA"], [9, 37, "OBJETO"], [44, 61, "LUGAR"]]}
+{"text": "el sistema no arranca en la pc del aula 08-08", "entities": [[3, 10, "OBJETO"], [11, 21, "PROBLEMA"], [35, 45, "LUGAR"]]}
+{"text": "no hay conexion a red en el laboratorio 10-10", "entities": [[0, 17, "PROBLEMA"], [18, 21, "OBJETO"], [28, 45, "LUGAR"]]}
+{"text": "el televisor del aula 3-4 se apaga solo", "entities": [[3, 12, "OBJETO"], [17, 25, "LUGAR"], [29, 39, "PROBLEMA"]]}
+{"text": "la pc 04 del laboratorio SS-02 hace un ruido extraño", "entities": [[3, 8, "OBJETO"], [13, 30, "LUGAR"], [31, 52, "PROBLEMA"]]}
+{"text": "luz quemada dentro del ascensor 3", "entities": [[0, 3, "OBJETO"], [4, 11, "PROBLEMA"], [23, 33, "LUGAR"]]}
+{"text": "el mouse de la pc no funciona en el laboratorio 02-03", "entities": [[3, 17, "OBJETO"], [18, 29, "PROBLEMA"], [36, 53, "LUGAR"]]}
+{"text": "no puedo ver la imagen en el televisor del laboratorio 03-04", "entities": [[0, 22, "PROBLEMA"], [29, 38, "OBJETO"], [43, 60, "LUGAR"]]}
+{"text": "la pc 12 del laboratorio 03-06 tiene la pantalla azul", "entities": [[3, 8, "OBJETO"], [13, 30, "LUGAR"], [40, 53, "PROBLEMA"]]}
+{"text": "el soporte del televisor esta flojo en el laboratorio 06-07", "entities": [[3, 24, "OBJETO"], [25, 35, "PROBLEMA"], [42, 59, "LUGAR"]]}
+{"text": "el mouse de la pc no funciona en el aula 03-01", "entities": [[3, 8, "OBJETO"], [18, 29, "PROBLEMA"], [36, 46, "LUGAR"]]}
+{"text": "no puedo ver la imagen en el televisor del aula 03-04", "entities": [[0, 12, "PROBLEMA"], [16, 38, "OBJETO"], [43, 53, "LUGAR"]]}
+{"text": "la pc del aula 03-06 tiene la pantalla azul", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [30, 43, "PROBLEMA"]]}
+{"text": "la pc del aula 01-05 no arranca el sistema", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [21, 42, "PROBLEMA"]]}
+{"text": "el televisor del aula 02-02 tiene la pantalla rota", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 50, "PROBLEMA"]]}
+{"text": "no funciona el ac del aula 03-03", "entities": [[0, 11, "PROBLEMA"], [15, 17, "OBJETO"], [22, 32, "LUGAR"]]}
+{"text": "falta el cable hdmi en el aula 04-04", "entities": [[0, 5, "PROBLEMA"], [9, 19, "OBJETO"], [26, 36, "LUGAR"]]}
+{"text": "falta el cabel hdmi en el aula 04-04", "entities": [[0, 5, "PROBLEMA"], [9, 19, "OBJETO"], [26, 36, "LUGAR"]]}
+{"text": "falta el cable HDMI en el aula 04-04", "entities": [[0, 5, "PROBLEMA"], [9, 19, "OBJETO"], [26, 36, "LUGAR"]]}
+{"text": "falta el cable Hdmi en el aula 04-04", "entities": [[0, 5, "PROBLEMA"], [9, 19, "OBJETO"], [26, 36, "LUGAR"]]}
+{"text": "la ventana del aula 05-05 no cierra bien", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 40, "PROBLEMA"]]}
+{"text": "se rompio un banco en el aula 06-06", "entities": [[0, 9, "PROBLEMA"], [13, 18, "OBJETO"], [25, 35, "LUGAR"]]}
+{"text": "no hay borradores en el aula 07-07", "entities": [[0, 6, "PROBLEMA"], [7, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "la luz del aula 08-08 esta parpadeando", "entities": [[3, 6, "OBJETO"], [11, 21, "LUGAR"], [22, 38, "PROBLEMA"]]}
+{"text": "el enchufe del aula 09-09 no tiene corriente", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 44, "PROBLEMA"]]}
+{"text": "hay una gotera en el techo del aula 10-10", "entities": [[8, 14, "PROBLEMA"], [21, 26, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "el proyector del aula 11-11 no enfoca", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 37, "PROBLEMA"]]}
+{"text": "falta el control remoto en el aula 12-12", "entities": [[0, 5, "PROBLEMA"], [9, 23, "OBJETO"], [30, 40, "LUGAR"]]}
+{"text": "la silla del aula 01-02 esta rota", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 33, "PROBLEMA"]]}
+{"text": "el teclado de la pc del aula 02-01 no responde", "entities": [[3, 10, "OBJETO"], [29, 34, "LUGAR"], [35, 46, "PROBLEMA"]]}
+{"text": "marcadores secos en el aula 03-04", "entities": [[0, 10, "OBJETO"], [11, 16, "PROBLEMA"], [23, 33, "LUGAR"]]}
+{"text": "no prende el televisor del aula 04-03", "entities": [[0, 9, "PROBLEMA"], [13, 22, "OBJETO"], [27, 37, "LUGAR"]]}
+{"text": "no prende el televisor del AULA 04-03", "entities": [[0, 9, "PROBLEMA"], [13, 22, "OBJETO"], [27, 37, "LUGAR"]]}
+{"text": "no prende el televisor del Aula 04-03", "entities": [[0, 9, "PROBLEMA"], [13, 22, "OBJETO"], [27, 37, "LUGAR"]]}
+{"text": "el picaporte del aula 05-02 se salio", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 36, "PROBLEMA"]]}
+{"text": "la puerta del aula 06-01 hace ruido", "entities": [[3, 9, "OBJETO"], [14, 24, "LUGAR"], [25, 35, "PROBLEMA"]]}
+{"text": "la persiana del aula 07-08 no sube", "entities": [[3, 11, "OBJETO"], [16, 26, "LUGAR"], [27, 34, "PROBLEMA"]]}
+{"text": "no hay tizas en el aula 08-07", "entities": [[0, 6, "PROBLEMA"], [7, 12, "OBJETO"], [19, 29, "LUGAR"]]}
+{"text": "no hay marcadores en el aula 03-04", "entities": [[0, 6, "PROBLEMA"], [7, 17, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "no hay marcadores rojos en el aula 03-04", "entities": [[0, 6, "PROBLEMA"], [7, 23, "OBJETO"], [30, 40, "LUGAR"]]}
+{"text": "no hay marcadores verdes en el aula 03-04", "entities": [[0, 6, "PROBLEMA"], [7, 24, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "no hay marcadores negros en el aula 03-08.", "entities": [[0, 6, "PROBLEMA"], [7, 24, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "no hay marcadores azules en el aula 03-04", "entities": [[0, 6, "PROBLEMA"], [7, 24, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "NO HAY MARCADORES ROJOS EN EL AULA 01-04", "entities": [[0, 6, "PROBLEMA"], [7, 23, "OBJETO"], [30, 40, "LUGAR"]]}
+{"text": "no hay marcadores Verdes en el aula 03-05", "entities": [[0, 6, "PROBLEMA"], [7, 24, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "no hay marcadores negrso en el aula 03-07", "entities": [[0, 6, "PROBLEMA"], [7, 24, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "no hay marcadores azulse en el aula 02-04.", "entities": [[0, 6, "PROBLEMA"], [7, 24, "OBJETO"], [31, 41, "LUGAR"]]}
+{"text": "los marcadores del aula 01-02 escriben mal", "entities": [[4, 14, "OBJETO"], [19, 29, "LUGAR"], [30, 42, "PROBLEMA"]]}
+{"text": "se cayo cafe en el piso del aula 03-04", "entities": [[3, 7, "PROBLEMA"], [8, 12, "OBJETO"], [28, 38, "LUGAR"]]}
+{"text": "Se cayo cafe en el piso del Aula 03-04", "entities": [[3, 7, "PROBLEMA"], [8, 12, "OBJETO"], [28, 38, "LUGAR"]]}
+{"text": "se cayo agua en el piso del aula 03-04", "entities": [[3, 7, "PROBLEMA"], [8, 12, "OBJETO"], [28, 38, "LUGAR"]]}
+{"text": "no funciona el mouse de la pc del aula 01-02", "entities": [[0, 11, "PROBLEMA"], [15, 29, "OBJETO"], [34, 44, "LUGAR"]]}
+{"text": "no funciona el mouse de la PC del aula 01-02", "entities": [[0, 11, "PROBLEMA"], [15, 29, "OBJETO"], [34, 44, "LUGAR"]]}
+{"text": "no funciona el MOuse de la pc del aula 01-02", "entities": [[0, 11, "PROBLEMA"], [15, 29, "OBJETO"], [34, 44, "LUGAR"]]}
+{"text": "la pantalla del televisor del aula 05-10 esta negra", "entities": [[3, 25, "OBJETO"], [30, 40, "LUGAR"], [41, 51, "PROBLEMA"]]}
+{"text": "falta el cable de alimentacion de la pc en el aula 02-02", "entities": [[0, 5, "PROBLEMA"], [9, 39, "OBJETO"], [46, 50, "LUGAR"]]}
+{"text": "Falta el cable de Alimentacion de la PC en el aula 02-02.", "entities": [[0, 5, "PROBLEMA"], [9, 39, "OBJETO"], [46, 50, "LUGAR"]]}
+{"text": "falta el cable de alimentacion de la PC en el aula 02-02", "entities": [[0, 5, "PROBLEMA"], [9, 39, "OBJETO"], [46, 50, "LUGAR"]]}
+{"text": "FALTA el cable de alimentacion de la pc en el aula 02-02.", "entities": [[0, 5, "PROBLEMA"], [9, 39, "OBJETO"], [46, 50, "LUGAR"]]}
+{"text": "el aula 03-03 tiene el aire acondicionado goteando", "entities": [[3, 13, "LUGAR"], [23, 41, "OBJETO"], [42, 50, "PROBLEMA"]]}
+{"text": "se trabo el cajon del escritorio en el aula 04-04", "entities": [[0, 8, "PROBLEMA"], [12, 32, "OBJETO"], [39, 43, "LUGAR"]]}
+{"text": "no hay internet por cable en el aula 06-06", "entities": [[0, 6, "PROBLEMA"], [7, 15, "OBJETO"], [32, 42, "LUGAR"]]}
+{"text": "no hay internet por cable en el aula SS-06", "entities": [[0, 6, "PROBLEMA"], [7, 15, "OBJETO"], [32, 42, "LUGAR"]]}
+{"text": "el aula 07-07 tiene un vidrio de la ventana roto", "entities": [[3, 13, "LUGAR"], [20, 43, "OBJETO"], [44, 48, "PROBLEMA"]]}
+{"text": "el aula 07-07 tiene un vidrio de la ventana ROTO", "entities": [[3, 13, "LUGAR"], [20, 43, "OBJETO"], [44, 48, "PROBLEMA"]]}
+{"text": "no anda el proyector de techo del aula 08-08", "entities": [[0, 7, "PROBLEMA"], [11, 29, "OBJETO"], [34, 44, "LUGAR"]]}
+{"text": "la pc 12 del aula 09-09 no reconoce el pendrive", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 47, "PROBLEMA"]]}
+{"text": "la PC 12 del Aula 09-09 no reconoce el Pendrive", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 47, "PROBLEMA"]]}
+{"text": "la pc 12 del aula 09-09 no reconoce el Pendriev", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 47, "PROBLEMA"]]}
+{"text": "faltan los borradores de la pizarra en el aula 10-10", "entities": [[0, 6, "PROBLEMA"], [11, 35, "OBJETO"], [42, 52, "LUGAR"]]}
+{"text": "la silla del escritorio esta rota en el aula 11-11", "entities": [[3, 23, "OBJETO"], [24, 33, "PROBLEMA"], [40, 50, "LUGAR"]]}
+{"text": "el aula 12-12 no tiene tizas blancas", "entities": [[3, 13, "LUGAR"], [14, 22, "PROBLEMA"], [23, 36, "OBJETO"]]}
+{"text": "no se puede subir la persiana en el aula 01-03", "entities": [[0, 17, "PROBLEMA"], [21, 29, "OBJETO"], [36, 46, "LUGAR"]]}
+{"text": "el televisor del aula 02-05 hace un zumbido", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 43, "PROBLEMA"]]}
+{"text": "El televisor del aula 02-05 hace un ruidi", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 41, "PROBLEMA"]]}
+{"text": "El televisor del aula 02-05 hace un ruido", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 41, "PROBLEMA"]]}
+{"text": "la pc del aula 03-06 se reinicia sola", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [24, 37, "PROBLEMA"]]}
+{"text": "la PC del aula 03-06 se reinicia sola", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [24, 37, "PROBLEMA"]]}
+{"text": "pc del aula 03-06 se reinicia sola", "entities": [[0, 2, "OBJETO"], [7, 17, "LUGAR"], [21, 34, "PROBLEMA"]]}
+{"text": "pc del aula 03-06 se reinicia sola.", "entities": [[0, 2, "OBJETO"], [7, 17, "LUGAR"], [21, 34, "PROBLEMA"]]}
+{"text": "no hay luz en la mitad del aula 04-07", "entities": [[0, 6, "PROBLEMA"], [7, 10, "OBJETO"], [27, 37, "LUGAR"]]}
+{"text": "el aula 05-08 tiene el picaporte flojo", "entities": [[3, 13, "LUGAR"], [20, 32, "OBJETO"], [33, 38, "PROBLEMA"]]}
+{"text": "el cable hdmi del aula 06-09 esta pelado", "entities": [[3, 13, "OBJETO"], [18, 28, "LUGAR"], [29, 40, "PROBLEMA"]]}
+{"text": "no funciona el control del aire en el aula 07-10", "entities": [[0, 11, "PROBLEMA"], [15, 31, "OBJETO"], [38, 48, "LUGAR"]]}
+{"text": "la pc del aula 08-11 no tiene sonido", "entities": [[3, 5, "OBJETO"], [10, 20, "LUGAR"], [21, 36, "PROBLEMA"]]}
+{"text": "la PC-01 del aula 01-05 no tiene conexión a red", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 47, "PROBLEMA"]]}
+{"text": "el televisor Samsung del aula 02-10 no tiene control remoto", "entities": [[3, 20, "OBJETO"], [25, 35, "LUGAR"], [36, 59, "PROBLEMA"]]}
+{"text": "no funciona el teclado de la PC-15 en el aula 03-03", "entities": [[0, 11, "PROBLEMA"], [15, 34, "OBJETO"], [41, 51, "LUGAR"]]}
+{"text": "la pantalla del TV LG en el aula 04-04 se ve verde", "entities": [[3, 21, "OBJETO"], [28, 38, "LUGAR"], [39, 50, "PROBLEMA"]]}
+{"text": "el aula 05-05 tiene la PC-08 con la pantalla azul", "entities": [[3, 13, "LUGAR"], [20, 22, "OBJETO"]]}
+{"text": "falta el cable HDMI del televisor Noblex en el aula 06-06", "entities": [[0, 5, "PROBLEMA"], [9, 40, "OBJETO"], [47, 57, "LUGAR"]]}
+{"text": "el mouse de la PC-03 no responde en el aula 07-07", "entities": [[3, 20, "OBJETO"], [21, 32, "PROBLEMA"], [39, 49, "LUGAR"]]}
+{"text": "no prende el monitor de la PC-22 del aula 08-08", "entities": [[0, 9, "PROBLEMA"], [13, 32, "OBJETO"], [37, 47, "LUGAR"]]}
+{"text": "el aula 09-09 tiene el televisor Sony sin sonido", "entities": [[3, 13, "LUGAR"], [20, 32, "OBJETO"], [38, 41, "PROBLEMA"]]}
+{"text": "se reinicia sola la PC-10 del aula 10-10", "entities": [[0, 16, "PROBLEMA"], [20, 25, "OBJETO"], [30, 40, "LUGAR"]]}
+{"text": "el televisor BGH del aula 11-11 no reconoce el pendrive", "entities": [[3, 16, "OBJETO"], [21, 31, "LUGAR"], [32, 55, "PROBLEMA"]]}
+{"text": "no anda el cable de red de la PC-05 en el aula 12-12", "entities": [[0, 7, "PROBLEMA"], [11, 35, "OBJETO"], [42, 52, "LUGAR"]]}
+{"text": "la PC-11 del aula 01-02 hace un ruido eléctrico", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 47, "PROBLEMA"]]}
+{"text": "el aula 02-04 tiene the soporte del TV Philips flojo", "entities": [[3, 13, "LUGAR"], [20, 38, "OBJETO"], [47, 52, "PROBLEMA"]]}
+{"text": "no hay imagen en el monitor de la PC-02 del aula 03-05", "entities": [[0, 13, "PROBLEMA"], [20, 39, "OBJETO"], [44, 54, "LUGAR"]]}
+{"text": "la PC-07 del aula 04-06 tiene el puerto USB roto", "entities": [[3, 8, "OBJETO"], [13, 23, "LUGAR"], [24, 48, "PROBLEMA"]]}
+{"text": "el televisor del aula 05-08 se tilda al conectar la laptop", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 58, "PROBLEMA"]]}
+{"text": "faltan los cables de la PC-19 en el aula 06-02", "entities": [[0, 6, "PROBLEMA"], [11, 29, "OBJETO"], [36, 46, "LUGAR"]]}
+{"text": "el aula 07-01 tiene la PC-14 sin sistema operativo", "entities": [[3, 13, "LUGAR"], [20, 22, "OBJETO"], [29, 50, "PROBLEMA"]]}
+{"text": "no funciona el control remoto del TV del aula 08-04", "entities": [[0, 11, "PROBLEMA"], [15, 33, "OBJETO"], [41, 51, "LUGAR"]]}
+{"text": "Hola, el proyector del aula 302 no prende", "entities": [[9, 18, "OBJETO"], [23, 31, "LUGAR"], [32, 41, "PROBLEMA"]]}
+{"text": "che el mouse del labo 1 esta roto", "entities": [[7, 12, "OBJETO"], [17, 23, "LUGAR"], [24, 33, "PROBLEMA"]]}
+{"text": "en el buffet hay una silla q le falta una pata", "entities": [[6, 12, "LUGAR"], [21, 26, "OBJETO"], [29, 46, "PROBLEMA"]]}
+{"text": "Urgente!! la luz del baño de hombres parpadea", "entities": [[13, 16, "OBJETO"], [21, 36, "LUGAR"], [37, 45, "PROBLEMA"]]}
+{"text": "no anda el aire acondisionado de la biblioteca", "entities": [[0, 7, "PROBLEMA"], [11, 29, "OBJETO"], [36, 46, "LUGAR"]]}
+{"text": "En Bedelia el picaporte se trabo", "entities": [[3, 10, "LUGAR"], [14, 23, "OBJETO"], [24, 32, "PROBLEMA"]]}
+{"text": "el monitor de la sala de computo tiene rayas", "entities": [[3, 10, "OBJETO"], [17, 32, "LUGAR"], [33, 44, "PROBLEMA"]]}
+{"text": "hay un enchufe quemado en el pasillo del 2do piso", "entities": [[7, 14, "OBJETO"], [15, 22, "PROBLEMA"], [29, 49, "LUGAR"]]}
+{"text": "che proyecttor del 405 hace un ruido raro", "entities": [[4, 14, "OBJETO"], [19, 22, "LUGAR"], [23, 41, "PROBLEMA"]]}
+{"text": "la bentana de la oficina 12 no cierra", "entities": [[3, 10, "OBJETO"], [17, 27, "LUGAR"]]}
+{"text": "esta rrroto el banco del anfiteatro", "entities": [[0, 11, "PROBLEMA"], [15, 20, "OBJETO"], [25, 35, "LUGAR"]]}
+{"text": "el teclado de la conpu 4 no escribe", "entities": [[3, 10, "OBJETO"], [17, 24, "LUGAR"], [28, 35, "PROBLEMA"]]}
+{"text": "HOLA en el buffet la cafetera pierde agua", "entities": [[11, 17, "LUGAR"], [21, 29, "OBJETO"], [30, 41, "PROBLEMA"]]}
+{"text": "el pizarron del aula magna esta todo manchado", "entities": [[3, 11, "OBJETO"], [21, 26, "LUGAR"], [32, 45, "PROBLEMA"]]}
+{"text": "cheeee en el 101 el ventilador sacude mucho", "entities": [[13, 16, "LUGAR"], [20, 30, "OBJETO"], [31, 43, "PROBLEMA"]]}
+{"text": "no funciona el ascensor del ala norte", "entities": [[0, 11, "PROBLEMA"], [15, 23, "OBJETO"], [28, 37, "LUGAR"]]}
+{"text": "la canilla del baño del 3er piso pierde", "entities": [[3, 10, "OBJETO"], [15, 32, "LUGAR"], [33, 39, "PROBLEMA"]]}
+{"text": "en el laboratorio de redes hay un cable pelado", "entities": [[6, 26, "LUGAR"], [34, 39, "OBJETO"], [40, 46, "PROBLEMA"]]}
+{"text": "alguien rompio la puerta del deposito", "entities": [[8, 14, "PROBLEMA"], [18, 24, "OBJETO"], [29, 37, "LUGAR"]]}
+{"text": "la estufa del aula 202 larga olor a quemado", "entities": [[3, 9, "OBJETO"], [14, 22, "LUGAR"], [23, 43, "PROBLEMA"]]}
+{"text": "perdon pero el banquito del pasillo ta roto", "entities": [[15, 23, "OBJETO"], [28, 35, "LUGAR"], [36, 43, "PROBLEMA"]]}
+{"text": "el parlante del salon de actos acopla", "entities": [[3, 11, "OBJETO"], [16, 30, "LUGAR"], [31, 37, "PROBLEMA"]]}
+{"text": "fijate que el dispenser de agua no sale nada", "entities": [[14, 31, "OBJETO"], [32, 44, "PROBLEMA"]]}
+{"text": "che en el gabinete 3 se tildo la pc", "entities": [[10, 20, "LUGAR"], [21, 29, "PROBLEMA"], [33, 35, "OBJETO"]]}
+{"text": "se cayo el cortinado del aula de dibujo", "entities": [[3, 7, "PROBLEMA"], [11, 20, "OBJETO"], [25, 39, "LUGAR"]]}
+{"text": "la cerradura de secretaria no gira", "entities": [[3, 12, "OBJETO"], [16, 26, "LUGAR"], [27, 34, "PROBLEMA"]]}
+{"text": "el control remoto del televisor no tiene pilas", "entities": [[3, 17, "OBJETO"], [22, 31, "OBJETO"], [32, 46, "PROBLEMA"]]}
+{"text": "al aire del 501 le gotea agua", "entities": [[3, 7, "OBJETO"], [12, 15, "LUGAR"], [16, 29, "PROBLEMA"]]}
+{"text": "alguien dejo el grifo abierto en el baño", "entities": [[16, 21, "OBJETO"], [22, 29, "PROBLEMA"], [36, 40, "LUGAR"]]}
+{"text": "necesitamos toner para la fotocopiadora de planta baja", "entities": [[0, 11, "PROBLEMA"], [12, 17, "OBJETO"], [43, 54, "LUGAR"]]}
+{"text": "Hola, estoy en el aula 210 y vi que el proyecttor no tiene los cables", "entities": [[18, 26, "LUGAR"], [39, 49, "OBJETO"], [50, 69, "PROBLEMA"]]}
+{"text": "vine a rendir al salon magna y la silla en la que me sente esta rota", "entities": [[17, 28, "LUGAR"], [34, 39, "OBJETO"], [59, 68, "PROBLEMA"]]}
+{"text": "estoy en el bañp de planta baja y kiero avisar que la canilla pierde", "entities": [[12, 31, "LUGAR"], [54, 61, "OBJETO"], [62, 68, "PROBLEMA"]]}
+{"text": "recien pase por el laboratorio 3 y vi que un monitor tiene la pantalla rota", "entities": [[19, 32, "LUGAR"], [45, 52, "OBJETO"], [59, 75, "PROBLEMA"]]}
+{"text": "queria avisar que en la biblioteca vi que el aire tira agua", "entities": [[24, 34, "LUGAR"], [45, 49, "OBJETO"], [50, 59, "PROBLEMA"]]}
+{"text": "estaba en el pasillo central y me di cuenta que un enchufe ase chispas", "entities": [[13, 28, "LUGAR"], [51, 58, "OBJETO"], [59, 70, "PROBLEMA"]]}
+{"text": "che les aviso q en el buffet la cafetera no calienta el agua", "entities": [[22, 28, "LUGAR"], [32, 40, "OBJETO"], [41, 60, "PROBLEMA"]]}
+{"text": "vine a la oficina de alumnos y el picaporte se me quedo en la mano", "entities": [[10, 28, "LUGAR"], [34, 43, "OBJETO"], [44, 66, "PROBLEMA"]]}
+{"text": "estoi intentando prender la luz del aula 105 y no anda", "entities": [[28, 31, "OBJETO"], [36, 44, "LUGAR"], [47, 54, "PROBLEMA"]]}
+{"text": "mira recien entro al gabinete de computacion y beo que falta un mouse", "entities": [[21, 44, "LUGAR"], [55, 69, "OBJETO"]]}
+{"text": "estoy estudiando en el 3er piso y el ventilador ase un ruido insoportable", "entities": [[23, 31, "LUGAR"], [37, 47, "OBJETO"], [48, 73, "PROBLEMA"]]}
+{"text": "queria reportar que en el baño de mujeres el espejo esta rajado", "entities": [[26, 41, "LUGAR"], [45, 51, "OBJETO"], [57, 63, "PROBLEMA"]]}
+{"text": "vine al laboratorio de fisica y vi un cable pelado atras del banco", "entities": [[8, 29, "LUGAR"], [38, 50, "OBJETO"], [61, 66, "OBJETO"]]}
+{"text": "les aviso que en la entrada la cerradura se trabo otra vez", "entities": [[20, 27, "LUGAR"], [31, 40, "OBJETO"], [41, 49, "PROBLEMA"]]}
+{"text": "estaba por usar el microondas del comedor y me parece que no funca", "entities": [[19, 29, "OBJETO"], [34, 41, "LUGAR"], [58, 66, "PROBLEMA"]]}
+{"text": "estoy en el aula de dibujo y la estufa larga olor a quemado", "entities": [[12, 26, "LUGAR"], [32, 38, "OBJETO"], [39, 59, "PROBLEMA"]]}
+{"text": "che recien vi que en la fotocopiadora se trabo el papel", "entities": [[24, 37, "OBJETO"], [41, 55, "PROBLEMA"]]}
+{"text": "hola kiero decir que en el estacionamiento la luminaria esta apagada", "entities": [[27, 42, "LUGAR"], [46, 55, "OBJETO"], [61, 68, "PROBLEMA"]]}
+{"text": "estoy en el aula magna y veo que el pizarron esta todo escrito con fibra", "entities": [[12, 22, "LUGAR"], [36, 44, "OBJETO"], [45, 72, "PROBLEMA"]]}
+{"text": "entre al laboratorio 2 y el aire acondisionado no enfria", "entities": [[9, 22, "LUGAR"], [28, 46, "OBJETO"], [47, 56, "PROBLEMA"]]}
+{"text": "recien fui al baño y vi que el dispenser de jabon esta vacio", "entities": [[14, 18, "LUGAR"], [31, 49, "OBJETO"], [55, 60, "PROBLEMA"]]}
+{"text": "estaba en la biblioteca y se cayo un estante", "entities": [[13, 23, "LUGAR"], [29, 33, "PROBLEMA"], [37, 44, "OBJETO"]]}
+{"text": "vi que en el pasillo del 2do piso el tacho de basura esta roto", "entities": [[13, 33, "LUGAR"], [37, 52, "OBJETO"], [58, 62, "PROBLEMA"]]}
+{"text": "che reporto que en el aula 401 un banco tiene un clavo salido", "entities": [[22, 30, "LUGAR"], [34, 39, "OBJETO"], [49, 61, "PROBLEMA"]]}
+{"text": "recien quise prender el proyector del 102 y me tiro error", "entities": [[24, 33, "OBJETO"], [38, 41, "LUGAR"], [47, 57, "PROBLEMA"]]}
+{"text": "hola estoy en secretaria y el telefono no da tono", "entities": [[14, 24, "LUGAR"], [30, 38, "OBJETO"], [39, 49, "PROBLEMA"]]}
+{"text": "che fijense que en el buffet la heladera ase ruido raro", "entities": [[22, 28, "LUGAR"], [32, 40, "OBJETO"], [41, 55, "PROBLEMA"]]}
+{"text": "vine a la facu y vi que la puerta de entrada no cierra bien", "entities": [[27, 44, "OBJETO"], [45, 59, "PROBLEMA"]]}
+{"text": "estaba en el gabinete de computo y la luz de mi compu parpadea", "entities": [[13, 32, "LUGAR"], [38, 41, "OBJETO"], [48, 53, "OBJETO"], [54, 62, "PROBLEMA"]]}
+{"text": "kiero avisar que en el deposito de limpieza la canilla pierde mucha agua", "entities": [[23, 43, "LUGAR"], [47, 54, "OBJETO"], [55, 61, "PROBLEMA"]]}
+{"text": "cheee recien pase por el labo de quimica y vi que el pico de gas esta perdiendo", "entities": [[22, 32, "LUGAR"], [46, 52, "OBJETO"], [61, 69, "PROBLEMA"]]}
+{"text": "hola! en bedelia el ventilador de techo hace un ruido que parece que se va a caer", "entities": [[9, 16, "LUGAR"], [20, 39, "OBJETO"], [40, 53, "PROBLEMA"]]}
+{"text": "estoy en el aula magna y el microfono acopla un monton", "entities": [[12, 22, "LUGAR"], [28, 37, "OBJETO"], [38, 54, "PROBLEMA"]]}
+{"text": "disculpame pero en el baño de planta baja el inodoro esta tapado", "entities": [[22, 41, "LUGAR"], [45, 52, "OBJETO"], [58, 64, "PROBLEMA"]]}
+{"text": "no anda la luz en el pasillo de los laboratorios", "entities": [[0, 7, "PROBLEMA"], [11, 14, "OBJETO"], [21, 48, "LUGAR"]]}
+{"text": "queria avisar q el monitor de la compu 12 en el gabinete 1 tiene rayas", "entities": [[19, 26, "OBJETO"], [33, 41, "OBJETO"], [48, 58, "LUGAR"], [65, 70, "PROBLEMA"]]}
+{"text": "fijate que en el buffet la heladera ase ruido raro", "entities": [[17, 23, "LUGAR"], [27, 35, "OBJETO"], [36, 50, "PROBLEMA"]]}
+{"text": "estoi en el 405 y el pizarron esta todo rayado", "entities": [[12, 15, "LUGAR"], [21, 29, "OBJETO"], [35, 46, "PROBLEMA"]]}
+{"text": "che recien vi que en la fotocopiadora de planta baja se trabo el papel", "entities": [[24, 37, "OBJETO"], [41, 52, "LUGAR"], [53, 64, "PROBLEMA"]]}
+{"text": "el asensor del pabellon 1 no para en el segundo piso", "entities": [[3, 10, "OBJETO"], [15, 25, "LUGAR"], [26, 33, "PROBLEMA"]]}
+{"text": "vine a rendir al aula 12 y el banco esta suelto", "entities": [[17, 24, "LUGAR"], [30, 35, "OBJETO"], [36, 47, "PROBLEMA"]]}
+{"text": "alguien rompio la manija de la puerta del deposito", "entities": [[8, 14, "PROBLEMA"], [18, 24, "OBJETO"], [31, 37, "OBJETO"], [42, 50, "LUGAR"]]}
+{"text": "hola, en el baño de varones no hay papel", "entities": [[12, 27, "LUGAR"], [35, 40, "OBJETO"]]}
+{"text": "el proyector del salon de actos no tiene nitidez", "entities": [[3, 12, "OBJETO"], [17, 31, "LUGAR"], [32, 48, "PROBLEMA"]]}
+{"text": "esta quemada la lamparita del pasillo de entrada", "entities": [[5, 12, "PROBLEMA"], [16, 25, "OBJETO"], [30, 48, "LUGAR"]]}
+{"text": "cheee en el gabinete 2 la pc 4 no arranca", "entities": [[12, 22, "LUGAR"], [26, 30, "OBJETO"], [31, 41, "PROBLEMA"]]}
+{"text": "vine a la facu y vi que la reja de entrada tiene el candado roto", "entities": [[35, 42, "LUGAR"],[27, 31, "OBJETO"],[43, 64, "PROBLEMA"]]}
+{"text": "el dispenser del pasillo central pierde agua a lo loco", "entities": [[3, 12, "OBJETO"], [17, 32, "LUGAR"], [33, 44, "PROBLEMA"]]}
+{"text": "hola estoy en el aula 204 y el aire no enfria nada", "entities": [[17, 25, "LUGAR"], [31, 35, "OBJETO"], [39, 50, "PROBLEMA"]]}
+{"text": "kiero avisar que en la oficina de alumnos se cayo un pedazo de techo", "entities": [[23, 41, "LUGAR"], [45, 68, "PROBLEMA"]]}
+{"text": "che fijense que en el 3er piso el tacho esta desbordado", "entities": [[22, 30, "LUGAR"], [34, 39, "OBJETO"], [45, 55, "PROBLEMA"]]}
+{"text": "estoy en el laboratorio de fisica y la balanza no calibra", "entities": [[12, 33, "LUGAR"], [39, 46, "OBJETO"], [47, 57, "PROBLEMA"]]}
+{"text": "pibe avisale a los de mantenimiento que en el baño se rompio la mochila", "entities": [[46, 50, "LUGAR"], [54, 60, "PROBLEMA"]]}
+{"text": "estaba en la biblioteca y vi que la ventana no traba", "entities": [[13, 23, "LUGAR"], [36, 43, "OBJETO"], [47, 52, "PROBLEMA"]]}
+{"text": "disculpa pero en el aula 101 el teclado esta lleno de tierra", "entities": [[20, 28, "LUGAR"], [32, 39, "OBJETO"], [45, 60, "PROBLEMA"]]}
+{"text": "hola recien entro al aula 501 y el enchufe de la pared ase chispas", "entities": [[21, 29, "LUGAR"], [35, 42, "OBJETO"], [55, 66, "PROBLEMA"]]}
+{"text": "el microondas del comedor larga olor a quemado cuando lo usas", "entities": [[3, 13, "OBJETO"], [18, 25, "LUGAR"], [26, 46, "PROBLEMA"]]}
+{"text": "che en el patio el banco de madera esta podrido", "entities": [[10, 15, "LUGAR"], [19, 34, "OBJETO"], [40, 47, "PROBLEMA"]]}
+{"text": "fijate que en la escalera del fondo no anda la luz", "entities": [[17, 35, "LUGAR"], [36, 43, "PROBLEMA"], [47, 50, "OBJETO"]]}
+{"text": "estaba por usar el proye del 302 y no tiene el cable hdmi", "entities": [[19, 24, "OBJETO"], [29, 32, "LUGAR"], [38, 57, "PROBLEMA"]]}
+{"text": "Aula 505: el aire no enfria nada che", "entities": [[0, 8, "LUGAR"], [13, 17, "OBJETO"], [18, 32, "PROBLEMA"]]}
+{"text": "Labo 2 - mouse desaparecido", "entities": [[0, 6, "LUGAR"], [9, 14, "OBJETO"], [15, 27, "PROBLEMA"]]}
+{"text": "Baño planta baja/canilla gotea", "entities": [[0, 16, "LUGAR"], [17, 24, "OBJETO"], [25, 30, "PROBLEMA"]]}
+{"text": "Se rompió la silla, estoy en el comedor", "entities": [[0, 9, "PROBLEMA"], [13, 18, "OBJETO"], [32, 39, "LUGAR"]]}
+{"text": "No tiene tinta el marcador del aula 12", "entities": [[0, 14, "PROBLEMA"], [18, 26, "OBJETO"], [31, 38, "LUGAR"]]}
+{"text": "Hace un ruido rraro el motor del asensor", "entities": [[0, 19, "PROBLEMA"], [23, 28, "OBJETO"], [33, 40, "LUGAR"]]}
+{"text": "El picaporte no gira aca en la oficina", "entities": [[3, 12, "OBJETO"], [13, 20, "PROBLEMA"], [31, 38, "LUGAR"]]}
+{"text": "La compu se tildo en el gabinete 4", "entities": [[3, 8, "OBJETO"], [12, 20, "PROBLEMA"], [24, 34, "LUGAR"]]}
+{"text": "Un vidrio esta rajado en la entrada", "entities": [[3, 9, "OBJETO"], [15, 21, "PROBLEMA"], [28, 35, "LUGAR"]]}
+{"text": "che recien quise abrir la bentana de la oficina de alumnos y se me rompio la manija", "entities": [[26, 33, "OBJETO"], [40, 58, "LUGAR"], [67, 83, "PROBLEMA"]]}
+{"text": "estaba por usar el micro en el buffet y empezo a salir humo", "entities": [[19, 24, "OBJETO"], [31, 37, "LUGAR"], [49, 59, "PROBLEMA"]]}
+{"text": "vine a rendir al 105 y el banco ta todo escrito con liquid paper", "entities": [[17, 20, "LUGAR"], [26, 31, "OBJETO"], [32, 64, "PROBLEMA"]]}
+{"text": "Urgente 302 proyector sin cables", "entities": [[8, 11, "LUGAR"], [12, 21, "OBJETO"], [22, 32, "PROBLEMA"]]}
+{"text": "Pasillo 2do piso lamparita quemada", "entities": [[0, 16, "LUGAR"], [17, 26, "OBJETO"], [27, 34, "PROBLEMA"]]}
+{"text": "Gimnasio tablero no prende", "entities": [[0, 8, "LUGAR"], [9, 16, "OBJETO"], [17, 26, "PROBLEMA"]]}
+{"text": "El techo del laboratorio de redes gotea un monton", "entities": [[3, 8, "OBJETO"], [13, 33, "LUGAR"], [34, 49, "PROBLEMA"]]}
+{"text": "Alguien se llevo los borradores del aula magna", "entities": [[11, 20, "PROBLEMA"], [21, 31, "OBJETO"], [36, 46, "LUGAR"]]}
+{"text": "No hay luz en el bañp", "entities": [[7, 10, "OBJETO"], [17, 21, "LUGAR"]]}
+{"text": "se re tildo la pc del labo de sistemas", "entities": [[3, 11, "PROBLEMA"], [15, 17, "OBJETO"], [22, 38, "LUGAR"]]}
+{"text": "el coso para apoyar los pies en el aula 20 es una verguenza de lo roto que esta", "entities": [[3, 28, "OBJETO"], [35, 42, "LUGAR"], [66, 79, "PROBLEMA"]]}
+{"text": "che el portero electrico de la entrada no funca", "entities": [[7, 24, "OBJETO"], [28, 38, "LUGAR"], [39, 47, "PROBLEMA"]]}
+{"text": "Esta perdiendo agua el dispenser, esta al lado de bedelia", "entities": [[0, 19, "PROBLEMA"], [23, 32, "OBJETO"], [42, 57, "LUGAR"]]}
+{"text": "Se callo la cortina en el salon de actos, el que esta al fondo", "entities": [[3, 11, "PROBLEMA"], [12, 19, "OBJETO"], [26, 62, "LUGAR"]]}
+{"text": "No cierra la puerta del baño de discapacitados", "entities": [[0, 9, "PROBLEMA"], [13, 19, "OBJETO"], [24, 46, "LUGAR"]]}
+{"text": "la estufa del aula 101 lsrga olor a kemaod", "entities": [[3, 9, "OBJETO"], [14, 22, "LUGAR"], [23, 42, "PROBLEMA"]]}
+{"text": "prizarron sucio en el 404", "entities": [[0, 9, "OBJETO"], [10, 15, "PROBLEMA"], [22, 25, "LUGAR"]]}
+{"text": "en el pasillp hay un enchufe q ase ruido", "entities": [[6, 13, "LUGAR"], [21, 28, "OBJETO"], [31, 40, "PROBLEMA"]]}
+{"text": "El proyector, que está en el aula 402, hace un ruido espantoso cuando lo prendés", "entities": [[3, 12, "OBJETO"], [29, 37, "LUGAR"], [39, 52, "PROBLEMA"]]}
+{"text": "En el laboratorio de redse, la compu de la punta, no arranca ni de casualidad", "entities": [[6, 26, "LUGAR"], [31, 49, "OBJETO"], [53, 60, "PROBLEMA"]]}
+{"text": "La silla de la fila de atras del aula magna esta toda floja", "entities": [[3, 28, "OBJETO"], [33, 43, "LUGAR"], [49, 59, "PROBLEMA"]]}
+{"text": "che no andan las luces ni el aire del 105", "entities": [[4, 12, "PROBLEMA"], [17, 33, "OBJETO"], [38, 41, "LUGAR"]]}
+{"text": "En el baño de planta baja faltan toallas y el jabon se acabo", "entities": [[6, 25, "LUGAR"], [26, 32, "PROBLEMA"], [33, 40, "OBJETO"], [46, 51, "OBJETO"], [52, 60, "PROBLEMA"]]}
+{"text": "Hay un charco de agua cerca del dispenser de la entrada", "entities": [[7, 21, "PROBLEMA"], [32, 41, "OBJETO"], [45, 55, "LUGAR"]]}
+{"text": "Al lado de la fotocopiadora, el tacho de basura se esta prendiendo fuego", "entities": [[3, 27, "LUGAR"], [32, 40, "OBJETO"], [48, 72, "PROBLEMA"]]}
+{"text": "Fijate que el enchufe que esta atras del escritorio del 204 no tiene corriente", "entities": [[14, 21, "OBJETO"], [37, 59, "LUGAR"], [60, 78, "PROBLEMA"]]}
+{"text": "se re tildo la pc del labo de sistemas", "entities": [[3, 11, "PROBLEMA"], [15, 17, "OBJETO"], [22, 38, "LUGAR"]]}
+{"text": "la canilla del bañp del 2do piso pierde banda de agua", "entities": [[3, 10, "OBJETO"], [15, 32, "LUGAR"], [33, 53, "PROBLEMA"]]}
+{"text": "vine a la biblio y el ventilador sacude como loco", "entities": [[10, 16, "LUGAR"], [22, 32, "OBJETO"], [33, 49, "PROBLEMA"]]}
+{"text": "la bentana de la ofcina no cerra", "entities": [[3, 10, "OBJETO"], [17, 23, "LUGAR"], [27, 32, "PROBLEMA"]]}
+{"text": "hay un cortocircuito en el enchufe del pasillo 3, sale humo!", "entities": [[7, 20, "PROBLEMA"], [27, 34, "OBJETO"], [39, 48, "LUGAR"], [50, 59, "PROBLEMA"]]}
+{"text": "che pizarron del 101 ta todo rroto", "entities": [[4, 12, "OBJETO"], [17, 20, "LUGAR"], [21, 34, "PROBLEMA"]]}
+{"text": "¿Saben a quién avisar? Porque no anda el ascensor del bloque B", "entities": [[33, 37, "PROBLEMA"], [41, 49, "OBJETO"]]}
+{"text": "Holaaa, recien pase por el buffet y vi que el dispenser no tira agua fria", "entities": [[27, 33, "LUGAR"], [46, 55, "OBJETO"], [56, 73, "PROBLEMA"]]}
+{"text": "Me parece que se quemo la lamparita, estoy aca en el 305", "entities": [[17, 22, "PROBLEMA"], [26, 35, "OBJETO"], [53, 56, "LUGAR"]]}
+{"text": "El aire acondicionado de la oficina de alumnos larga un olor a quemado rarisimo", "entities": [[3, 21, "OBJETO"], [28, 46, "LUGAR"], [47, 79, "PROBLEMA"]]}
+{"text": "En el gabinete 2 la pantalla de la compu 5 se pone toda negra de a ratos", "entities": [[6, 16, "LUGAR"], [20, 28, "OBJETO"], [32, 42, "OBJETO"], [43, 72, "PROBLEMA"]]}
+{"text": "No hay tizas en el aula 201", "entities": [[0, 6, "PROBLEMA"], [7, 12, "OBJETO"], [19, 27, "LUGAR"]]}
+{"text": "En el 405 faltan los cables del proyector", "entities": [[6, 9, "LUGAR"], [10, 16, "PROBLEMA"], [21, 41, "OBJETO"]]}
+{"text": "Se robaron el mouse de la pc 3 en el labo de redes", "entities": [[0, 10, "PROBLEMA"], [14, 19, "OBJETO"], [26, 30, "OBJETO"], [37, 50, "LUGAR"]]}
+{"text": "¿No anda el arie acondisionado del 302?", "entities": [[1, 8, "PROBLEMA"], [12, 30, "OBJETO"], [35, 38, "LUGAR"]]}
+{"text": "405: proyecttor ase chispas", "entities": [[0, 3, "LUGAR"], [5, 15, "OBJETO"], [16, 27, "PROBLEMA"]]}
+{"text": "Pasillp 2do pisp: lamparitw kemada", "entities": [[0, 16, "LUGAR"], [18, 27, "OBJETO"], [28, 34, "PROBLEMA"]]}
+{"text": "Ta rrotp el vancp del anfitatro", "entities": [[0, 8, "PROBLEMA"], [12, 17, "OBJETO"], [22, 31, "LUGAR"]]}
+{"text": "Se callo la cortian en el salon d actos", "entities": [[0, 8, "PROBLEMA"], [12, 19, "OBJETO"], [26, 39, "LUGAR"]]}
+{"text": "holaaaaa el pizarronnn del aula 12 esta todp rrayado", "entities": [[12, 22, "OBJETO"], [27, 34, "LUGAR"], [35, 52, "PROBLEMA"]]}
+{"text": "cheeee en el buffet la cafettera no calienta una goma", "entities": [[13, 19, "LUGAR"], [23, 32, "OBJETO"], [33, 53, "PROBLEMA"]]}
+{"text": "aca en la entrada el picaporte ase ruido y no siera", "entities": [[10, 17, "LUGAR"], [21, 30, "OBJETO"], [31, 51, "PROBLEMA"]]}
+{"text": "en el pasillo del fondo el enchufe no tiene coriente", "entities": [[6, 23, "LUGAR"], [27, 34, "OBJETO"], [35, 52, "PROBLEMA"]]}
+{"text": "Monitor de la pc 4 en el labo de redws tiene la pantala rrota", "entities": [[0, 7, "OBJETO"], [14, 18, "OBJETO"], [25, 38, "LUGAR"], [45, 61, "PROBLEMA"]]}
+{"text": "La estufa del 204 larga holor a kemado", "entities": [[3, 9, "OBJETO"], [14, 17, "LUGAR"], [30, 38, "PROBLEMA"]]}
+{"text": "bentana rota en la ofisina de de canje", "entities": [[0, 7, "OBJETO"], [8, 12, "PROBLEMA"], [19, 38, "LUGAR"]]}
+{"text": "no funca el asensor del ala estte", "entities": [[0, 8, "PROBLEMA"], [12, 19, "OBJETO"], [24, 33, "LUGAR"]]}
+{"text": "estaba tratando de estudiar pero el ventilador del 101 ase un rruido q no se aguanta", "entities": [[36, 46, "OBJETO"], [51, 54, "LUGAR"], [55, 84, "PROBLEMA"]]}
+{"text": "vine a la biblio y vi que el estante de la punta se esta por caer", "entities": [[10, 16, "LUGAR"], [29, 36, "OBJETO"], [49, 65, "PROBLEMA"]]}
+{"text": "el proyecter del aula magna no tiene el cabke hdmi", "entities": [[3, 12, "OBJETO"], [17, 27, "LUGAR"], [28, 50, "PROBLEMA"]]}
+{"text": "en el gabinete de conpu la mausepad esta pegajosa", "entities": [[6, 23, "LUGAR"], [27, 35, "OBJETO"], [41, 49, "PROBLEMA"]]}
+{"text": "Urgente el AIRE del LABORATORIO no ENFRIA", "entities": [[11, 15, "OBJETO"], [20, 31, "LUGAR"], [35, 41, "PROBLEMA"]]}
+{"text": "pizaronSucio en el aula102", "entities": [[0, 12, "PROBLEMA"], [19, 26, "LUGAR"]]}
+{"text": "Hola, buenos días, ¿cómo están?", "entities": []}
+{"text": "Muchas gracias por la ayuda, saludos cordiales.", "entities": []}
+{"text": "Buenassss, quería hacer una consulta sobre los horarios", "entities": []}
+{"text": "Che, ¿hay alguien ahí?", "entities": []}
+{"text": "¿A qué hora cierra la fotocopiadora hoy?", "entities": []}
+{"text": "Me podrías decir cuándo son las inscripciones a los finales?", "entities": []}
+{"text": "¿Dónde puedo pedir un certificado de alumno regular?", "entities": []}
+{"text": "Hola, perdí mi libreta universitaria, ¿alguien la vio?", "entities": []}
+{"text": "Ya lo arreglaron, ¡quedó genial!", "entities": []}
+{"text": "Buenísimo, gracias por avisar.", "entities": []}
+{"text": "Ok, perfecto, entiendo.", "entities": []}
+{"text": "ehm...", "entities": []}
+{"text": "hola kiero saber una cosa", "entities": []}
+{"text": "uuh no para me equivoque", "entities": []}
+{"text": "test de funcionamiento", "entities": []}
+{"text": "asdfghjkl", "entities": []}
+{"text": "Mañana no vengo a clase porque me siento mal", "entities": []}
+{"text": "¿Me das una mano con un ejercicio de física?", "entities": []}
+{"text": "El profesor de química no vino hoy", "entities": []}
+{"text": "Me saqué un 10 en el parcial de álgebra", "entities": []}
+{"text": "En mi casa se cortó la luz, por eso no me conecté", "entities": []}
+{"text": "Me olvidé la mochila en el colectivo 132", "entities": []}
+{"text": "holaaa kiero hcer una prgunta", "entities": []}
+{"text": "grax x la rta", "entities": []}
+{"text": "alguine sabe si ay clases mañana?", "entities": []}
+{"text": "¿Cuándo es el próximo parcial de física?", "entities": []}
+{"text": "¿Alguien sabe a qué hora abre el gimnasio?", "entities": []}
+{"text": "Hola, ¿me pasan el link del grupo de WhatsApp?", "entities": []}
+{"text": "Che, ¿vamos a comer al parque después de cursar?", "entities": []}
+{"text": "Me olvidé el paraguas en el bondi viniendo para acá", "entities": []}
+{"text": "¿Saben si el profesor de análisis matemático toma lista?", "entities": []}
+{"text": "Hola, ¿dónde puedo comprar los apuntes de la materia?", "entities": []}
+{"text": "¿Hay alguna charla hoy en el auditorio?", "entities": []}
+{"text": "Necesito el programa de la materia para pedir la equivalencia", "entities": []}
+{"text": "¿A qué hora es el receso de la clase de hoy?", "entities": []}
+{"text": "Me saqué un ocho en el examen, ¡estoy re contento!", "entities": []}
+{"text": "¿Alguien tiene un cargador de iPhone que me preste?", "entities": []}
+{"text": "Hola, quería consultar sobre las becas de comedor", "entities": []}
+{"text": "¿Cuándo son las vacaciones de invierno este año?", "entities": []}
+{"text": "Che, ¿me explican el punto 3 de la guía de ejercicios?", "entities": []}
+{"text": "¿Dónde se saca la credencial de la biblioteca?", "entities": []}
+{"text": "Mañana no voy a poder ir a la clase de las ocho", "entities": []}
+{"text": "¿Alguien vio una campera azul olvidada?", "entities": []}
+{"text": "Hola, ¿cómo hago para anotarme a los finales?", "entities": []}
+{"text": "¿Saben si hoy hay paro de colectivos?", "entities": []}
+{"text": "¿Cuál es la clave del Wi-Fi de alumnos?", "entities": []}
+{"text": "Necesito hablar con alguien de orientación vocacional", "entities": []}
+{"text": "¿Me pasan el cronograma de clases del cuatrimestre?", "entities": []}
+{"text": "¡Suerte a todos en el examen de mañana!", "entities": []}
+{"text": "¿Dónde queda el departamento de alumnos?", "entities": []}
+{"text": "Hola, quería saber si hay clases de consulta hoy", "entities": []}
+{"text": "¿Alguien sabe quién es el titular de la cátedra?", "entities": []}
+{"text": "Me quedé dormido y no llegué a la teórica", "entities": []}
+{"text": "¿Dónde se pueden ver las notas del parcial?", "entities": []}
+{"text": "Che, ¿alguien tiene el PDF del libro de química?", "entities": []}
+{"text": "Hola, ¿me confirman el aula de la charla de IA?", "entities": []}
+{"text": "¿Saben si la fotocopiadora acepta Mercado Pago?", "entities": []}
+{"text": "No entiendo nada de lo que explicó el profe hoy", "entities": []}
+{"text": "¿Alguien me puede pasar las fotos del pizarrón de recién?", "entities": []}
+{"text": "¿A qué hora empieza el turno noche?", "entities": []}
+{"text": "Hola, busco a los chicos del grupo de algoritmos", "entities": []}
+{"text": "¿Dónde puedo cargar la tarjeta SUBE por acá cerca?", "entities": []}
+{"text": "¿Hay algún evento deportivo el fin de semana?", "entities": []}
+{"text": "Me olvidé la cartuchera en mi casa, qué bajón", "entities": []}
+{"text": "¿Alguien sabe si el buffet tiene opciones veganas?", "entities": []}
+{"text": "che en el labo de sistemas la pc 8 se tildo", "entities": [[10, 26, "LUGAR"], [30, 34, "OBJETO"], [35, 43, "PROBLEMA"]]}
+{"text": "el picaporte de la oficina 12 se me quedo en la mano", "entities": [[3, 12, "OBJETO"], [19, 29, "LUGAR"], [30, 52, "PROBLEMA"]]}
+{"text": "HOLA en el baño de hombres la canilla pierde banda de agua", "entities": [[11, 26, "LUGAR"], [30, 37, "OBJETO"], [38, 58, "PROBLEMA"]]}
+{"text": "estoy en el aula 301 y el aire acondisionado tira gotas", "entities": [[12, 20, "LUGAR"], [26, 44, "OBJETO"], [45, 55, "PROBLEMA"]]}
+{"text": "queria avisar que el proye del salon de actos no tiene nitidez", "entities": [[21, 26, "OBJETO"], [31, 45, "LUGAR"], [46, 62, "PROBLEMA"]]}
+{"text": "recien pase por el buffet y vi que el dispenser de agua esta rroto", "entities": [[19, 25, "LUGAR"], [35, 50, "OBJETO"], [56, 66, "PROBLEMA"]]}
+{"text": "en la biblioteca el monitor de la conpu 5 tiene la pantalla negra", "entities": [[6, 16, "LUGAR"], [20, 27, "OBJETO"], [34, 41, "OBJETO"], [48, 65, "PROBLEMA"]]}
+{"text": "cheee el ventilador del techo del aula magna ase un ruido rraro", "entities": [[9, 29, "OBJETO"], [34, 44, "LUGAR"], [45, 63, "PROBLEMA"]]}
+{"text": "Urgente: enchufe quemado en el pasillo de planta baja", "entities": [[9, 16, "OBJETO"], [17, 24, "PROBLEMA"], [31, 53, "LUGAR"]]}
+{"text": "la bentana de la oficina de alumnos no siera bien", "entities": [[3, 10, "OBJETO"], [17, 35, "LUGAR"], [36, 44, "PROBLEMA"]]}
+{"text": "vine a rendir al 105 y el banco tiene un clavo afuera", "entities": [[17, 20, "LUGAR"], [26, 31, "OBJETO"], [41, 53, "PROBLEMA"]]}
+{"text": "se callo el estante de la biblio", "entities": [[3, 11, "PROBLEMA"], [12, 19, "OBJETO"], [26, 32, "LUGAR"]]}
+{"text": "hola kiero avisar que en el baño de mujeres no hay luz", "entities": [[28, 43, "LUGAR"], [44, 50, "PROBLEMA"], [51, 54, "OBJETO"]]}
+{"text": "hola kiero avisar que en el bano de mujeres no hay luz", "entities": [[28, 43, "LUGAR"], [44, 50, "PROBLEMA"], [51, 54, "OBJETO"]]}
+{"text": "el pizarron de la sala 204 esta todo manchado con indeleble", "entities": [[3, 11, "OBJETO"], [23, 26, "LUGAR"], [37, 59, "PROBLEMA"]]}
+{"text": "al aire del 402 le falta el control remoto", "entities": [[3, 7, "OBJETO"], [12, 15, "LUGAR"], [19, 42, "PROBLEMA"]]}
+{"text": "estoy en el estacionamiento y la luminaria parpadea", "entities": [[12, 27, "LUGAR"], [33, 42, "OBJETO"], [43, 51, "PROBLEMA"]]}
+{"text": "no funca el microondas del comedor de alumnos", "entities": [[0, 8, "PROBLEMA"], [12, 22, "OBJETO"], [27, 45, "LUGAR"]]}
+{"text": "el asensor del ala norte no para en el 2do piso", "entities": [[3, 10, "OBJETO"], [15, 24, "LUGAR"], [25, 32, "PROBLEMA"]]}
+{"text": "en el laboratorio de redes hay un cable pelado tras el rack", "entities": [[6, 26, "LUGAR"], [34, 46, "OBJETO"], [47, 51, "PROBLEMA"]]}
+{"text": "esta largando olor a kemado el proyector del 501", "entities": [[5, 27, "PROBLEMA"], [31, 40, "OBJETO"], [45, 48, "LUGAR"]]}
+{"text": "alguien rompio la puerta del deposito de limpieza", "entities": [[8, 14, "PROBLEMA"], [18, 24, "OBJETO"], [29, 49, "LUGAR"]]}
+{"text": "che en el patio el banco de madera esta podrido", "entities": [[10, 15, "LUGAR"], [19, 34, "OBJETO"], [40, 47, "PROBLEMA"]]}
+{"text": "la canilla del bañp del fondo pierde banda", "entities": [[3, 10, "OBJETO"], [15, 29, "LUGAR"], [30, 42, "PROBLEMA"]]}
+{"text": "vine a la facu y vi que el vidrio de la entrada esta rajado", "entities": [[27, 33, "OBJETO"], [40, 47, "LUGAR"], [53, 59, "PROBLEMA"]]}
+{"text": "el parlante del aula magna acopla mucho", "entities": [[3, 11, "OBJETO"], [21, 26, "LUGAR"], [34, 39, "PROBLEMA"]]}
+{"text": "fijate que en el 305 la estufa no calienta nada", "entities": [[17, 20, "LUGAR"], [24, 30, "OBJETO"], [31, 47, "PROBLEMA"]]}
+{"text": "recien quise usar la fotocopiadora de planta baja y se trabo el papel", "entities": [[21, 34, "OBJETO"], [45, 49, "LUGAR"], [55, 69, "PROBLEMA"]]}
+{"text": "en el gabinete de computo falta un teclado de la pc 2", "entities": [[6, 25, "LUGAR"], [26, 31, "PROBLEMA"], [35, 42, "OBJETO"], [49, 53, "OBJETO"]]}
+{"text": "hola estoy en el aula de dibujo y el tablero esta flojo", "entities": [[17, 31, "LUGAR"], [37, 44, "OBJETO"], [50, 55, "PROBLEMA"]]}
+{"text": "che estoy en el enchufe de la biblioteca ase chispas", "entities": [[24, 26, "OBJETO"], [41, 44, "LUGAR"]]}
+{"text": "se robaron el mouse del labo 3", "entities": [[0, 10, "PROBLEMA"], [14, 19, "OBJETO"], [24, 30, "LUGAR"]]}
+{"text": "el portero electrico de la entrada no da tono", "entities": [[3, 20, "OBJETO"], [24, 34, "LUGAR"], [35, 45, "PROBLEMA"]]}
+{"text": "estoy en el baño y el dispenser de jabon esta vacio", "entities": [[12, 16, "LUGAR"], [22, 40, "OBJETO"], [46, 51, "PROBLEMA"]]}
+{"text": "en el aula 101 el pizarron tiene una grieta", "entities": [[6, 14, "LUGAR"], [18, 26, "OBJETO"], [33, 43, "PROBLEMA"]]}
+{"text": "LOG_TEC_2026: Falla crítica en sensor de movimiento pasillo central", "entities": [[14, 27, "PROBLEMA"], [31, 51, "OBJETO"], [52, 67, "LUGAR"]]}
+{"text": "ID_REPORTE: 504/proyecttor/off", "entities": [[12, 15, "LUGAR"], [16, 26, "OBJETO"], [27, 30, "PROBLEMA"]]}
+{"text": "mantenimiento preventivo requerido: el torno del taller de mecanica vibra mucho", "entities": [[39, 44, "OBJETO"], [49, 67, "LUGAR"], [68, 79, "PROBLEMA"]]}
+{"text": "Che, recien salgo de cursar y note que el dispenser de gel de la entrada esta vacio", "entities": [[42, 58, "OBJETO"], [65, 72, "LUGAR"], [73, 83, "PROBLEMA"]]}
+{"text": "Se kema la placa del microondas del buffet, sale olor rraro", "entities": [[3, 7, "PROBLEMA"], [11, 16, "OBJETO"], [21, 31, "OBJETO"], [36, 42, "LUGAR"], [54, 59, "PROBLEMA"]]}
+{"text": "305/aire/ta frito", "entities": [[0, 3, "LUGAR"], [4, 8, "OBJETO"], [12, 17, "PROBLEMA"]]}
+{"text": "al lado del kiosco de la facu el tacho de basura se dio vuelta todo", "entities": [[0, 29, "LUGAR"], [33, 48, "OBJETO"], [49, 67, "PROBLEMA"]]}
+{"text": "Urgente kiero avisar q el asensor del bloque sur se clavo en el 4to piso", "entities": [[26, 33, "OBJETO"], [38, 48, "LUGAR"], [52, 60, "PROBLEMA"]]}
+{"text": "en el sector de lockers hay una cerradura q no kiere abrir", "entities": [[6, 23, "LUGAR"], [32, 41, "OBJETO"], [44, 58, "PROBLEMA"]]}
+{"text": "la maquina de cafe de planta baja se trago la moneda", "entities": [[3, 18, "OBJETO"], [22, 33, "LUGAR"], [37, 52, "PROBLEMA"]]}
+{"text": "falla de conectividad en el rack del labo de redes", "entities": [[0, 21, "PROBLEMA"], [28, 32, "OBJETO"], [37, 50, "LUGAR"]]}
+{"text": "che el fliper de la sala de juegos tiene el boton hundido", "entities": [[7, 13, "OBJETO"], [20, 34, "LUGAR"], [50, 57, "PROBLEMA"]]}
+{"text": "En el baño d discapacitados el barral esta flojo", "entities": [[6, 27, "LUGAR"], [31, 37, "OBJETO"], [43, 48, "PROBLEMA"]]}
+{"text": "hay una filtracion de agua en el techo del deposito de limpieza", "entities": [[8, 26, "PROBLEMA"], [33, 38, "OBJETO"], [43, 63, "LUGAR"]]}
+{"text": "la canilla del patiio de atras pierde un monton", "entities": [[3, 10, "OBJETO"], [15, 30, "LUGAR"], [38, 47, "PROBLEMA"]]}
+{"text": "alguien dego un vidrio roto en las escaleras", "entities": [[8, 12, "PROBLEMA"], [16, 27, "OBJETO"], [35, 44, "LUGAR"]]}
+{"text": "no funca ni a ganchos el enchufe de la pared del 101", "entities": [[0, 8, "PROBLEMA"], [25, 44, "OBJETO"], [49, 52, "LUGAR"]]}
+{"text": "los torniquetes de la entrada no giran", "entities": [[4, 15, "OBJETO"], [22, 29, "LUGAR"], [30, 38, "PROBLEMA"]]}
+{"text": "esta re detonado el banco de la fila 1 del aula magna", "entities": [[5, 16, "PROBLEMA"], [20, 25, "OBJETO"], [37, 38, "OBJETO"], [43, 53, "LUGAR"]]}
+{"text": "Sector Impresiones: falta toner en la laser 1", "entities": [[20, 25, "PROBLEMA"], [26, 31, "OBJETO"], [38, 45, "LUGAR"]]}
+{"text": "estaba en la fotocopiadora y se me quedo la palanca en la mano", "entities": [[13, 26, "LUGAR"], [29, 40, "PROBLEMA"], [44, 51, "OBJETO"]]}
+{"text": "cheeee el router del pasillo 3 tiene las luces rojas", "entities": [[10, 16, "OBJETO"], [21, 30, "LUGAR"], [37, 52, "PROBLEMA"]]}
+{"text": "la canilla de la cosina ase rruido", "entities": [[3, 10, "OBJETO"], [17, 23, "LUGAR"], [24, 34, "PROBLEMA"]]}
+{"text": "vibracion excesiva en el motor del asensor del ala norte", "entities": [[0, 18, "PROBLEMA"], [25, 42, "OBJETO"], [47, 56, "LUGAR"]]}
+{"text": "el dispenser de toallas del baño de mujeres esta trabado", "entities": [[3, 23, "OBJETO"], [28, 43, "LUGAR"], [49, 56, "PROBLEMA"]]}
+{"text": "avisale a los d limpieza que en el patio hay un tacho volcado", "entities": [[35, 40, "LUGAR"], [48, 53, "OBJETO"], [54, 61, "PROBLEMA"]]}
+{"text": "no sube la persiana del gabinete 2", "entities": [[0, 7, "PROBLEMA"], [11, 19, "OBJETO"], [24, 34, "LUGAR"]]}
+{"text": "los cables del rack de comunicaciones estan todos pelados", "entities": [[4, 10, "OBJETO"], [15, 37, "LUGAR"], [44, 57, "PROBLEMA"]]}
+{"text": "che el matafuegos del 1er piso no tiene la traba", "entities": [[7, 17, "OBJETO"], [22, 30, "LUGAR"], [34, 48, "PROBLEMA"]]}
+{"text": "la luz de emergencia de la escalera de incendio esta kemaa", "entities": [[3, 20, "OBJETO"], [27, 47, "LUGAR"], [53, 58, "PROBLEMA"]]}
+{"text": "estaba en el labo de redes y vi q un monitor tiene la pantala rrota", "entities": [[13, 26, "LUGAR"], [37, 44, "OBJETO"], [54, 67, "PROBLEMA"]]}
+{"text": "hola recien entre al bañp de hombres y la canilla no para de perder", "entities": [[21, 36, "LUGAR"], [39, 49, "OBJETO"], [50, 67, "PROBLEMA"]]}
+{"text": "che me sente en el aula magna y note que el banco se mueve mucho", "entities": [[19, 29, "LUGAR"], [44, 49, "OBJETO"], [50, 64, "PROBLEMA"]]}
+{"text": "estoi en el gabinete 2 y queria avisar que la pc 4 no arranca", "entities": [[12, 22, "LUGAR"], [46, 50, "OBJETO"], [51, 61, "PROBLEMA"]]}
+{"text": "recien quise prender el aire del 105 y ase un rruido rrarisimo", "entities": [[24, 28, "OBJETO"], [33, 36, "LUGAR"], [43, 52, "PROBLEMA"]]}
+{"text": "vine a rendir a la biblioteca y el ventilador de techo sacude banda", "entities": [[19, 29, "LUGAR"], [35, 54, "OBJETO"], [55, 67, "PROBLEMA"]]}
+{"text": "estaba en el pasillo y vi que la luz de mergencia esta kemaa", "entities": [[13, 20, "LUGAR"], [33, 49, "OBJETO"], [50, 60, "PROBLEMA"]]}
+{"text": "che recien pase por bedelia y el picaporte se me quedo en la mano", "entities": [[20, 27, "LUGAR"], [33, 42, "OBJETO"], [43, 65, "PROBLEMA"]]}
+{"text": "quise usar el proyector en el 204 y no tiene los cables hdmi", "entities": [[14, 23, "OBJETO"], [30, 33, "LUGAR"], [36, 55, "PROBLEMA"]]}
+{"text": "estoy en el buffet y vi que la cafettera pierde agua por abajo", "entities": [[12, 18, "LUGAR"], [31, 40, "OBJETO"], [41, 62, "PROBLEMA"]]}
+{"text": "entre al laboratorio de fisica y hay un cable pelado cerca del rack", "entities": [[9, 30, "LUGAR"], [33, 36, "PROBLEMA"], [40, 52, "OBJETO"]]}
+{"text": "hola kiero avisar que en el aula de dibujo la estufa larga holor a kemado", "entities": [[28, 42, "LUGAR"], [46, 52, "OBJETO"], [53, 73, "PROBLEMA"]]}
+{"text": "recien quise abrir la bentana del 501 y se le rompio la manija", "entities": [[22, 29, "OBJETO"], [34, 37, "LUGAR"], [43, 52, "PROBLEMA"], [56, 62, "OBJETO"]]}
+{"text": "me fije en el dispenser del pasillo y vi q no sale agua fria", "entities": [[14, 23, "OBJETO"], [28, 35, "LUGAR"], [43, 60, "PROBLEMA"]]}
+{"text": "estaba en la fotocopiadora y se trabo el papel adentro de la maquina", "entities": [[13, 26, "LUGAR"], [32, 40, "PROBLEMA"], [41, 46, "OBJETO"]]}
+{"text": "che estoy en el salon de actos y el microfono acopla un monton", "entities": [[16, 30, "LUGAR"], [36, 45, "OBJETO"], [46, 62, "PROBLEMA"]]}
+{"text": "vine al departamento de alumnos y el telefono no da tono", "entities": [[8, 31, "LUGAR"], [37, 45, "OBJETO"], [46, 56, "PROBLEMA"]]}
+{"text": "estaba por dejar la mochila en el locker y la cerradura no traba", "entities": [[34, 40, "OBJETO"], [46, 55, "OBJETO"], [56, 64, "PROBLEMA"]]}
+{"text": "vi que en la entrada el tacho de basura esta todo bolcado", "entities": [[13, 20, "LUGAR"], [24, 39, "OBJETO"]]}
+{"text": "recien entro al 101 y vi que el pizarron tiene una rraya enorme", "entities": [[16, 19, "LUGAR"], [32, 40, "OBJETO"], [47, 63, "PROBLEMA"]]}
+{"text": "estoi en el gabinete de conpu y la mausepad esta toda pegajosa", "entities": [[12, 29, "LUGAR"], [35, 43, "OBJETO"], [49, 62, "PROBLEMA"]]}
+{"text": "che les aviso que en el 3er piso la luminaria parpadea mucho", "entities": [[24, 32, "LUGAR"], [36, 45, "OBJETO"], [46, 60, "PROBLEMA"]]}
+{"text": "entre al deposito y vi que la estanteria se esta por caer", "entities": [[9, 17, "LUGAR"], [30, 40, "OBJETO"], [41, 57, "PROBLEMA"]]}
+{"text": "hola estoy en el aula 12 y note q el enchufe ase chispas", "entities": [[17, 24, "LUGAR"], [37, 44, "OBJETO"], [45, 56, "PROBLEMA"]]}
+{"text": "quise prender el aire en la ofisina y no enfria nada che", "entities": [[17, 21, "OBJETO"], [28, 35, "LUGAR"], [41, 52, "PROBLEMA"]]}
+{"text": "estaba en el estacionamiento y la barrera no sube", "entities": [[13, 30, "LUGAR"], [34, 41, "OBJETO"], [42, 49, "PROBLEMA"]]}
+{"text": "recien fui al baño de discapacitados y el barral esta flojo", "entities": [[14, 36, "LUGAR"], [42, 48, "OBJETO"], [54, 59, "PROBLEMA"]]}
+{"text": "vine a la facu y vi que el vidrio de la puerta de entrada esta rrajado", "entities": [[27, 33, "OBJETO"], [40, 57, "LUGAR"], [63, 70, "PROBLEMA"]]}
+{"text": "estaba por calentar la comida y el microondas del comedor no funca", "entities": [[35, 45, "OBJETO"], [50, 57, "LUGAR"], [58, 66, "PROBLEMA"]]}
+{"text": "che en el patio el banco de madera se esta pudriendo todo", "entities": [[10, 15, "LUGAR"], [19, 34, "OBJETO"], [35, 57, "PROBLEMA"]]}
